@@ -1,22 +1,59 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+	"storyName": "Close the game",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"you-will-be-mine",
+			"bugs",
+			[
+				80,
+				80,
+				93
+			]
+		],
+		[
+			"sing-with-me",
+			"pibbyhappy",
+			[
+				255,
+				133,
+				255
+			]
+		],
+		[
+			"yabadaba-boom",
+			"fred",
+			[
+				255,
+				255,
+				75
+			]
+		],
+		[
+			"what-time-is-it",
+			"finn",
+			[
+				26,
+				13,
+				173
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Custom Week1",
+	"hiddenUntilUnlocked": false
 }

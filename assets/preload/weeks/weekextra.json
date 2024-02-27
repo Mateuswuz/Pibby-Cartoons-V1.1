@@ -1,0 +1,41 @@
+{
+	"storyName": "I warned you",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"nightmare",
+			"bfpibby",
+			[
+				0,
+				40,
+				80
+			]
+		],
+		[
+			"toney",
+			"wewewa",
+			[
+				255,
+				173,
+				195
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
