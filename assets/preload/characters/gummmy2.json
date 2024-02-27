@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				44,
+				-2
+			],
+			"loop": false,
+			"fps": 26,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-5,
+				-23
+			],
+			"loop": false,
+			"fps": 26,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				39,
+				-15
+			],
+			"loop": false,
+			"fps": 26,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-18,
+				-8
+			],
+			"loop": false,
+			"fps": 26,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gummypibby3",
+	"position": [
+		-380,
+		0
+	],
+	"healthicon": "gummy",
+	"flip_x": false,
+	"healthbar_colors": [
+		110,
+		214,
+		106
+	],
+	"camera_position": [
+		-60,
+		-60
+	],
+	"sing_duration": 5.5,
+	"scale": 1.3
+}

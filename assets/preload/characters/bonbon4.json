@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				-137
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				-142
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				-139
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				-142
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bdown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-108,
+				-140
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Bidle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BonbonspriteN",
+	"position": [
+		90,
+		100
+	],
+	"healthicon": "bonbon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		255
+	],
+	"camera_position": [
+		180,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 0.54
+}

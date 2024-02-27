@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				68,
+				-162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GLeft"
+		},
+		{
+			"offsets": [
+				-94,
+				-111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GRight"
+		},
+		{
+			"offsets": [
+				-94,
+				-228
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GDown"
+		},
+		{
+			"offsets": [
+				33,
+				-145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GUp"
+		},
+		{
+			"offsets": [
+				-20,
+				-160
+			],
+			"loop": true,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Gidle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GumballPibby",
+	"position": [
+		50,
+		270
+	],
+	"healthicon": "gumball",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		165,
+		235
+	],
+	"camera_position": [
+		0,
+		240
+	],
+	"sing_duration": 3,
+	"scale": 1.3
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "WIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "WLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-31
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "WRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "WUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-57
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "WDown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Wazepibby",
+	"position": [
+		0,
+		160
+	],
+	"healthicon": "edd",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

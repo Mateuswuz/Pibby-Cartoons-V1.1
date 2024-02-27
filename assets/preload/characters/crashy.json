@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "CIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				-155
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				43
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				84
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Crashypibby",
+	"position": [
+		0,
+		180
+	],
+	"healthicon": "edd",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		-2147483648
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				-90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				216,
+				-156
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-127
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-98,
+				-72
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-18
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SpongebobPibby",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "keseso",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		204,
+		0
+	],
+	"camera_position": [
+		-70,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

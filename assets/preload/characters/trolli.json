@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TIdlle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				-119
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-53
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Trollisiopibby",
+	"position": [
+		0,
+		180
+	],
+	"healthicon": "edd",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		-2147483648
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

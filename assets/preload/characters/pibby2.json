@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				95
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pibbyright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				114
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pibbyup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				95
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pibbydown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				95
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pibbyleft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				101
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pibbyidle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pibbyJ2",
+	"position": [
+		-190,
+		80
+	],
+	"healthicon": "pibby",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		116,
+		251
+	],
+	"camera_position": [
+		-220,
+		310
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

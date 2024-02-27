@@ -1,0 +1,129 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GFIdle"
+		},
+		{
+			"offsets": [
+				77,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "GFLeft"
+		},
+		{
+			"offsets": [
+				-21,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "GFUp"
+		},
+		{
+			"offsets": [
+				-48,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "GFRight"
+		},
+		{
+			"offsets": [
+				1,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "GFDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GFCARTOON",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "gfscary",
+	"flip_x": true,
+	"healthbar_colors": [
+		176,
+		1,
+		64
+	],
+	"camera_position": [
+		-130,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

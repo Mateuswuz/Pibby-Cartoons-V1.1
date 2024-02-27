@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pibbyidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				7,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PibbyLEFT0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "PibbyDOWN0"
+		},
+		{
+			"offsets": [
+				5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PibbyRIGHT0"
+		},
+		{
+			"offsets": [
+				23,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PibbyUP0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "Pibbyidle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-4
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "PibbyLEFTFail",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				9
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "PibbyDOWNFail",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "PibbyRIGHTFail",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				2
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "PibbyUPFail",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PibbyPedro",
+	"position": [
+		-60,
+		330
+	],
+	"healthicon": "pibby",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		116,
+		255
+	],
+	"camera_position": [
+		-400,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 0.54
+}

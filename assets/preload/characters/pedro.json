@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 27,
+			"name": "PRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				117,
+				-57
+			],
+			"anim": "singDOWN",
+			"fps": 27,
+			"name": "PDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 27,
+			"name": "PLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				203
+			],
+			"anim": "singUP",
+			"fps": 27,
+			"name": "PUp",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				6,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pidle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PedroSumaPiedra",
+	"position": [
+		330,
+		260
+	],
+	"healthicon": "fred",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		204,
+		-2147483648
+	],
+	"camera_position": [
+		-820,
+		-350
+	],
+	"sing_duration": 5.5,
+	"scale": 1.9
+}
