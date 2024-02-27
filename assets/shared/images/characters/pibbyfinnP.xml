@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PibbyfinnP.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle 0000" x="1398" y="436" width="448" height="433" frameX="-19" frameY="-39" frameWidth="495" frameHeight="470"/>
+	<SubTexture name="Idle 0001" x="1398" y="0" width="448" height="436" frameX="-18" frameY="-36" frameWidth="495" frameHeight="470"/>
+	<SubTexture name="Idle 0002" x="948" y="0" width="450" height="436" frameX="-18" frameY="-35" frameWidth="495" frameHeight="470"/>
+	<SubTexture name="Idle 0003" x="0" y="867" width="452" height="434" frameX="-18" frameY="-38" frameWidth="495" frameHeight="470"/>
+	<SubTexture name="Idle 0004" x="459" y="435" width="451" height="425" frameX="-18" frameY="-47" frameWidth="495" frameHeight="470"/>
+	<SubTexture name="Idle 0005" x="948" y="436" width="449" height="430" frameX="-18" frameY="-42" frameWidth="495" frameHeight="470"/>
+	<SubTexture name="Idle 0006" x="1398" y="869" width="448" height="432" frameX="-18" frameY="-39" frameWidth="495" frameHeight="470"/>
+	<SubTexture name="Right 0000" x="1846" y="1300" width="429" height="420" frameX="0" frameY="-52" frameWidth="460" frameHeight="470"/>
+	<SubTexture name="Right 0001" x="0" y="1301" width="451" height="422" frameX="-17" frameY="-50" frameWidth="460" frameHeight="470"/>
+	<SubTexture name="Right 0002" x="0" y="1723" width="418" height="428" frameX="-52" frameY="-44" frameWidth="460" frameHeight="470"/>
+	<SubTexture name="Up 0000" x="0" y="0" width="489" height="435" frameX="-4" frameY="-36" frameWidth="490" frameHeight="470"/>
+	<SubTexture name="Up 0001" x="489" y="0" width="459" height="433" frameX="-4" frameY="-38" frameWidth="490" frameHeight="470"/>
+	<SubTexture name="Up 0002" x="0" y="435" width="459" height="432" frameX="-4" frameY="-39" frameWidth="490" frameHeight="470"/>
+	<SubTexture name="Down 10000" x="452" y="867" width="453" height="421" frameX="-20" frameY="-18" frameWidth="500" frameHeight="438"/>
+	<SubTexture name="Down 20000" x="905" y="867" width="458" height="415" frameX="-16" frameY="-25" frameWidth="500" frameHeight="438"/>
+	<SubTexture name="Down 30000" x="451" y="1301" width="459" height="399" frameX="-15" frameY="-40" frameWidth="500" frameHeight="438"/>
+	<SubTexture name="Left 10000" x="1846" y="436" width="419" height="432" frameX="-24" frameY="-40" frameWidth="470" frameHeight="470"/>
+	<SubTexture name="Left 20000" x="1846" y="868" width="419" height="432" frameX="-22" frameY="-40" frameWidth="470" frameHeight="470"/>
+	<SubTexture name="Left 30000" x="1846" y="0" width="429" height="436" frameX="-10" frameY="-35" frameWidth="470" frameHeight="470"/>
+</TextureAtlas>

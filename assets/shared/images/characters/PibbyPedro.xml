@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="PibbyPedro.png" width="3165" height="3264">
+  <SubTexture name="PibbyDOWNFail0002.png" x="0" y="0"  width="373" height="474" frameX="-14" frameY="-0" frameWidth="409" frameHeight="474"/>
+  <SubTexture name="PibbyDOWNFail0003.png" x="373" y="0"  width="373" height="474" frameX="-14" frameY="-0" frameWidth="409" frameHeight="474"/>
+  <SubTexture name="PibbyLEFT0002.png" x="0" y="474" width="461" height="395" rotated="true"  frameX="-8" frameY="-0" frameWidth="409" frameHeight="461"/>
+  <SubTexture name="PibbyLEFT0003.png" x="461" y="474" width="461" height="395" rotated="true"  frameX="-8" frameY="-0" frameWidth="409" frameHeight="461"/>
+  <SubTexture name="PibbyRIGHT0004.png" x="0" y="869" width="459" height="397" rotated="true"  frameX="-6" frameY="-0" frameWidth="406" frameHeight="459"/>
+  <SubTexture name="PibbyRIGHT0005.png" x="459" y="869" width="459" height="397" rotated="true"  frameX="-6" frameY="-0" frameWidth="406" frameHeight="459"/>
+  <SubTexture name="PibbyRIGHTFail0002.png" x="746" y="0"  width="403" height="459" frameX="-0" frameY="-0" frameWidth="446" frameHeight="459"/>
+  <SubTexture name="PibbyRIGHTFail0003.png" x="922" y="459" width="459" height="403" rotated="true"  frameX="-0" frameY="-0" frameWidth="446" frameHeight="459"/>
+  <SubTexture name="PibbyDOWN0006.png" x="918" y="869" width="458" height="396" rotated="true"  frameX="-1" frameY="-0" frameWidth="422" frameHeight="458"/>
+  <SubTexture name="PibbyDOWN0007.png" x="0" y="1266" width="458" height="396" rotated="true"  frameX="-1" frameY="-0" frameWidth="422" frameHeight="458"/>
+  <SubTexture name="Pibbyidle0012.png" x="918" y="1265" width="458" height="397" rotated="true"  frameX="-1" frameY="-0" frameWidth="412" frameHeight="458"/>
+  <SubTexture name="Pibbyidle0013.png" x="1149" y="0"  width="397" height="458" frameX="-1" frameY="-0" frameWidth="412" frameHeight="458"/>
+  <SubTexture name="Pibbyidle0014.png" x="1381" y="458" width="457" height="397" rotated="true"  frameX="-0" frameY="-1" frameWidth="412" frameHeight="458"/>
+  <SubTexture name="Pibbyidle0015.png" x="1381" y="855" width="457" height="397" rotated="true"  frameX="-0" frameY="-1" frameWidth="412" frameHeight="458"/>
+  <SubTexture name="PibbyRIGHT0002.png" x="1376" y="1252" width="455" height="405" rotated="true"  frameX="-1" frameY="-4" frameWidth="406" frameHeight="459"/>
+  <SubTexture name="PibbyRIGHT0003.png" x="0" y="1662" width="455" height="405" rotated="true"  frameX="-1" frameY="-4" frameWidth="406" frameHeight="459"/>
+  <SubTexture name="PibbyUP0000.png" x="458" y="1266" width="455" height="396" rotated="true"  frameX="-8" frameY="-3" frameWidth="436" frameHeight="458"/>
+  <SubTexture name="PibbyUP0001.png" x="455" y="1662" width="455" height="396" rotated="true"  frameX="-8" frameY="-3" frameWidth="436" frameHeight="458"/>
+  <SubTexture name="PibbyUP0002.png" x="910" y="1662" width="455" height="396" rotated="true"  frameX="-0" frameY="-3" frameWidth="436" frameHeight="458"/>
+  <SubTexture name="PibbyUP0003.png" x="1365" y="1662" width="455" height="396" rotated="true"  frameX="-0" frameY="-3" frameWidth="436" frameHeight="458"/>
+  <SubTexture name="PibbyUP0004.png" x="1546" y="0"  width="398" height="454" frameX="-27" frameY="-4" frameWidth="436" frameHeight="458"/>
+  <SubTexture name="PibbyUP0005.png" x="1820" y="1657" width="454" height="398" rotated="true"  frameX="-27" frameY="-4" frameWidth="436" frameHeight="458"/>
+  <SubTexture name="Pibbyidle0000.png" x="1831" y="1252" width="454" height="397" rotated="true"  frameX="-4" frameY="-4" frameWidth="412" frameHeight="458"/>
+  <SubTexture name="Pibbyidle0001.png" x="1838" y="454" width="454" height="397" rotated="true"  frameX="-4" frameY="-4" frameWidth="412" frameHeight="458"/>
+  <SubTexture name="PibbyLEFT0000.png" x="1838" y="851" width="453" height="398" rotated="true"  frameX="-0" frameY="-8" frameWidth="409" frameHeight="461"/>
+  <SubTexture name="PibbyLEFT0001.png" x="0" y="2067" width="453" height="398" rotated="true"  frameX="-0" frameY="-8" frameWidth="409" frameHeight="461"/>
+  <SubTexture name="PibbyUPFail0002.png" x="1944" y="0" width="429" height="453" rotated="true"  frameX="-0" frameY="-32" frameWidth="453" frameHeight="461"/>
+  <SubTexture name="PibbyUPFail0003.png" x="2292" y="453"  width="453" height="429" frameX="-0" frameY="-32" frameWidth="453" frameHeight="461"/>
+  <SubTexture name="PibbyLEFT0004.png" x="453" y="2067" width="452" height="397" rotated="true"  frameX="-0" frameY="-9" frameWidth="409" frameHeight="461"/>
+  <SubTexture name="PibbyLEFT0005.png" x="905" y="2058" width="452" height="397" rotated="true"  frameX="-0" frameY="-9" frameWidth="409" frameHeight="461"/>
+  <SubTexture name="PibbyLEFTFail0002.png" x="1357" y="2058" width="452" height="401" rotated="true"  frameX="-50" frameY="-0" frameWidth="451" frameHeight="452"/>
+  <SubTexture name="PibbyLEFTFail0003.png" x="1809" y="2058" width="452" height="401" rotated="true"  frameX="-50" frameY="-0" frameWidth="451" frameHeight="452"/>
+  <SubTexture name="PibbyRIGHT0001.png" x="2261" y="2055" width="452" height="401" rotated="true"  frameX="-0" frameY="-7" frameWidth="406" frameHeight="459"/>
+  <SubTexture name="Pibbyidle0010.png" x="2274" y="1649" width="452" height="397" rotated="true"  frameX="-0" frameY="-6" frameWidth="412" frameHeight="458"/>
+  <SubTexture name="Pibbyidle0011.png" x="2285" y="1249" width="452" height="397" rotated="true"  frameX="-0" frameY="-6" frameWidth="412" frameHeight="458"/>
+  <SubTexture name="PibbyRIGHT0000.png" x="0" y="2465" width="451" height="401" rotated="true"  frameX="-0" frameY="-8" frameWidth="406" frameHeight="459"/>
+  <SubTexture name="PibbyDOWN0002.png" x="905" y="2455" width="450" height="398" rotated="true"  frameX="-24" frameY="-8" frameWidth="422" frameHeight="458"/>
+  <SubTexture name="PibbyDOWN0003.png" x="453" y="2464" width="450" height="398" rotated="true"  frameX="-24" frameY="-8" frameWidth="422" frameHeight="458"/>
+  <SubTexture name="Pibbyidle0002.png" x="1355" y="2459" width="448" height="398" rotated="true"  frameX="-6" frameY="-10" frameWidth="412" frameHeight="458"/>
+  <SubTexture name="Pibbyidle0003.png" x="1803" y="2459" width="448" height="398" rotated="true"  frameX="-6" frameY="-10" frameWidth="412" frameHeight="458"/>
+  <SubTexture name="PibbyDOWN0000.png" x="2251" y="2459" width="446" height="398" rotated="true"  frameX="-19" frameY="-12" frameWidth="422" frameHeight="458"/>
+  <SubTexture name="PibbyDOWN0001.png" x="2373" y="0"  width="398" height="446" frameX="-19" frameY="-12" frameWidth="422" frameHeight="458"/>
+  <SubTexture name="Pibbyidle0008.png" x="2713" y="2046" width="445" height="397" rotated="true"  frameX="-12" frameY="-13" frameWidth="412" frameHeight="458"/>
+  <SubTexture name="Pibbyidle0009.png" x="2713" y="2443" width="445" height="397" rotated="true"  frameX="-12" frameY="-13" frameWidth="412" frameHeight="458"/>
+  <SubTexture name="Pibbyidle0004.png" x="2745" y="446"  width="398" height="443" frameX="-14" frameY="-15" frameWidth="412" frameHeight="458"/>
+  <SubTexture name="Pibbyidle0005.png" x="2737" y="889"  width="398" height="443" frameX="-14" frameY="-15" frameWidth="412" frameHeight="458"/>
+  <SubTexture name="PibbyDOWN0004.png" x="2726" y="1646" width="439" height="398" rotated="true"  frameX="-10" frameY="-19" frameWidth="422" frameHeight="458"/>
+  <SubTexture name="PibbyDOWN0005.png" x="0" y="2866" width="439" height="398" rotated="true"  frameX="-10" frameY="-19" frameWidth="422" frameHeight="458"/>
+  <SubTexture name="Pibbyidle0006.png" x="439" y="2866" width="436" height="398" rotated="true"  frameX="-12" frameY="-22" frameWidth="412" frameHeight="458"/>
+  <SubTexture name="Pibbyidle0007.png" x="875" y="2862" width="436" height="398" rotated="true"  frameX="-12" frameY="-22" frameWidth="412" frameHeight="458"/>
+</TextureAtlas>

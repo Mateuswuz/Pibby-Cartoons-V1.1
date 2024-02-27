@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AlloyP.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="ADown0000" x="813" y="0" width="410" height="451" frameX="0" frameY="-15" frameWidth="408" frameHeight="464"/>
+	<SubTexture name="ADown0001" x="813" y="0" width="410" height="451" frameX="0" frameY="-15" frameWidth="408" frameHeight="464"/>
+	<SubTexture name="ADown0002" x="406" y="0" width="407" height="455" frameX="2" frameY="-11" frameWidth="408" frameHeight="464"/>
+	<SubTexture name="ADown0003" x="406" y="0" width="407" height="455" frameX="2" frameY="-11" frameWidth="408" frameHeight="464"/>
+	<SubTexture name="ADown0004" x="0" y="0" width="406" height="464" frameX="2" frameY="-2" frameWidth="408" frameHeight="464"/>
+	<SubTexture name="ADown0005" x="0" y="0" width="406" height="464" frameX="2" frameY="-2" frameWidth="408" frameHeight="464"/>
+	<SubTexture name="AIdle0000" x="841" y="464" width="238" height="572" frameX="2" frameY="-11" frameWidth="234" frameHeight="582"/>
+	<SubTexture name="AIdle0001" x="841" y="464" width="238" height="572" frameX="2" frameY="-11" frameWidth="234" frameHeight="582"/>
+	<SubTexture name="AIdle0002" x="922" y="1049" width="235" height="575" frameX="1" frameY="-8" frameWidth="234" frameHeight="582"/>
+	<SubTexture name="AIdle0003" x="922" y="1049" width="235" height="575" frameX="1" frameY="-8" frameWidth="234" frameHeight="582"/>
+	<SubTexture name="AIdle0004" x="1672" y="0" width="233" height="579" frameX="0" frameY="-4" frameWidth="234" frameHeight="582"/>
+	<SubTexture name="AIdle0005" x="1672" y="0" width="233" height="579" frameX="0" frameY="-4" frameWidth="234" frameHeight="582"/>
+	<SubTexture name="AIdle0006" x="689" y="1049" width="233" height="583" frameX="-1" frameY="0" frameWidth="234" frameHeight="582"/>
+	<SubTexture name="AIdle0007" x="689" y="1049" width="233" height="583" frameX="-1" frameY="0" frameWidth="234" frameHeight="582"/>
+	<SubTexture name="AIdle0008" x="456" y="1049" width="233" height="585" frameX="-1" frameY="2" frameWidth="234" frameHeight="582"/>
+	<SubTexture name="AIdle0009" x="456" y="1049" width="233" height="585" frameX="-1" frameY="2" frameWidth="234" frameHeight="582"/>
+	<SubTexture name="AIdle0010" x="223" y="1049" width="233" height="585" frameX="-1" frameY="2" frameWidth="234" frameHeight="582"/>
+	<SubTexture name="AIdle0011" x="223" y="1049" width="233" height="585" frameX="-1" frameY="2" frameWidth="234" frameHeight="582"/>
+	<SubTexture name="AIdle0012" x="223" y="1049" width="233" height="585" frameX="-1" frameY="2" frameWidth="234" frameHeight="582"/>
+	<SubTexture name="AIdle0013" x="223" y="1049" width="233" height="585" frameX="-1" frameY="2" frameWidth="234" frameHeight="582"/>
+	<SubTexture name="ALeft0000" x="1371" y="1049" width="213" height="563" frameX="2" frameY="-3" frameWidth="224" frameHeight="565"/>
+	<SubTexture name="ALeft0001" x="1371" y="1049" width="213" height="563" frameX="2" frameY="-3" frameWidth="224" frameHeight="565"/>
+	<SubTexture name="ALeft0002" x="1672" y="579" width="215" height="566" frameX="1" frameY="0" frameWidth="224" frameHeight="565"/>
+	<SubTexture name="ALeft0003" x="1672" y="579" width="215" height="566" frameX="1" frameY="0" frameWidth="224" frameHeight="565"/>
+	<SubTexture name="ALeft0004" x="1157" y="1049" width="214" height="567" frameX="-8" frameY="1" frameWidth="224" frameHeight="565"/>
+	<SubTexture name="ALeft0005" x="1157" y="1049" width="214" height="567" frameX="-8" frameY="1" frameWidth="224" frameHeight="565"/>
+	<SubTexture name="ARight0000" x="0" y="464" width="290" height="585" frameX="2" frameY="1" frameWidth="286" frameHeight="582"/>
+	<SubTexture name="ARight0001" x="0" y="464" width="290" height="585" frameX="2" frameY="1" frameWidth="286" frameHeight="582"/>
+	<SubTexture name="ARight0002" x="290" y="464" width="279" height="582" frameX="2" frameY="-2" frameWidth="286" frameHeight="582"/>
+	<SubTexture name="ARight0003" x="290" y="464" width="279" height="582" frameX="2" frameY="-2" frameWidth="286" frameHeight="582"/>
+	<SubTexture name="ARight0004" x="569" y="464" width="272" height="582" frameX="2" frameY="-2" frameWidth="286" frameHeight="582"/>
+	<SubTexture name="ARight0005" x="569" y="464" width="272" height="582" frameX="2" frameY="-2" frameWidth="286" frameHeight="582"/>
+	<SubTexture name="AUp0000" x="1449" y="0" width="223" height="625" frameX="-2" frameY="2" frameWidth="223" frameHeight="622"/>
+	<SubTexture name="AUp0001" x="1449" y="0" width="223" height="625" frameX="-2" frameY="2" frameWidth="223" frameHeight="622"/>
+	<SubTexture name="AUp0002" x="1223" y="0" width="226" height="623" frameX="2" frameY="0" frameWidth="223" frameHeight="622"/>
+	<SubTexture name="AUp0003" x="1223" y="0" width="226" height="623" frameX="2" frameY="0" frameWidth="223" frameHeight="622"/>
+	<SubTexture name="AUp0004" x="0" y="1049" width="223" height="616" frameX="-1" frameY="-7" frameWidth="223" frameHeight="622"/>
+	<SubTexture name="AUp0005" x="0" y="1049" width="223" height="616" frameX="-1" frameY="-7" frameWidth="223" frameHeight="622"/>
+</TextureAtlas>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PIBBY SAD.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="BF idle dance0000" x="0" y="475" width="330" height="472" frameX="2" frameY="-1" frameWidth="338" frameHeight="472"/>
+	<SubTexture name="BF idle dance0001" x="330" y="475" width="330" height="472" frameX="2" frameY="-1" frameWidth="338" frameHeight="472"/>
+	<SubTexture name="BF idle dance0002" x="660" y="475" width="330" height="471" frameX="-7" frameY="-1" frameWidth="338" frameHeight="472"/>
+	<SubTexture name="BF idle dance0003" x="0" y="0" width="331" height="475" frameX="-9" frameY="2" frameWidth="338" frameHeight="472"/>
+	<SubTexture name="BF idle dance0004" x="662" y="0" width="331" height="475" frameX="-9" frameY="2" frameWidth="338" frameHeight="472"/>
+	<SubTexture name="BF idle dance0005" x="331" y="0" width="331" height="475" frameX="-9" frameY="2" frameWidth="338" frameHeight="472"/>
+	<SubTexture name="BF idle dance0006" x="331" y="0" width="331" height="475" frameX="-9" frameY="2" frameWidth="338" frameHeight="472"/>
+	<SubTexture name="BF idle dance0007" x="0" y="0" width="331" height="475" frameX="-9" frameY="2" frameWidth="338" frameHeight="472"/>
+	<SubTexture name="BF idle dance0008" x="662" y="0" width="331" height="475" frameX="-9" frameY="2" frameWidth="338" frameHeight="472"/>
+	<SubTexture name="BF idle dance0009" x="331" y="0" width="331" height="475" frameX="-9" frameY="2" frameWidth="338" frameHeight="472"/>
+	<SubTexture name="BF idle dance0010" x="331" y="0" width="331" height="475" frameX="-9" frameY="2" frameWidth="338" frameHeight="472"/>
+</TextureAtlas>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="PibbyJ2.png" width="3138" height="3300">
+  <SubTexture name="Up 2" x="4" y="4"  width="383" height="557" frameX="-165" frameY="-79" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Up 1" x="4" y="569"  width="383" height="550" frameX="-164" frameY="-86" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Up 3" x="4" y="1127"  width="384" height="549" frameX="-163" frameY="-86" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle 12" x="395" y="4"  width="384" height="542" frameX="-183" frameY="-81" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle 4" x="395" y="554"  width="384" height="541" frameX="-182" frameY="-81" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle 11" x="4" y="1684"  width="385" height="538" frameX="-175" frameY="-85" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle 3" x="396" y="1103"  width="385" height="538" frameX="-174" frameY="-85" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle 13" x="4" y="2230"  width="384" height="538" frameX="-184" frameY="-84" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Left 5" x="4" y="2776"  width="385" height="520" frameX="-219" frameY="-101" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle 5" x="396" y="2230"  width="384" height="538" frameX="-183" frameY="-84" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Left 4" x="397" y="2776"  width="385" height="517" frameX="-219" frameY="-103" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Up 5" x="397" y="1649"  width="384" height="535" frameX="-141" frameY="-104" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle 14" x="788" y="2192"  width="385" height="534" frameX="-182" frameY="-89" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle 6" x="790" y="2734"  width="384" height="534" frameX="-181" frameY="-89" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Up 4" x="787" y="4"  width="384" height="534" frameX="-158" frameY="-103" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle 10" x="787" y="546"  width="386" height="532" frameX="-169" frameY="-90" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle 2" x="1179" y="4"  width="386" height="532" frameX="-169" frameY="-91" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Right 6" x="789" y="1086"  width="484" height="529" frameX="-94" frameY="-121" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Down 5" x="1182" y="544"  width="384" height="529" frameX="-209" frameY="-81" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Down 6" x="1573" y="4"  width="384" height="529" frameX="-194" frameY="-83" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle 1" x="789" y="1623"  width="384" height="529" frameX="-168" frameY="-94" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Left 6" x="1181" y="1623"  width="384" height="529" frameX="-202" frameY="-94" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Up 6" x="1281" y="1081"  width="384" height="529" frameX="-113" frameY="-111" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle 15" x="1574" y="541"  width="385" height="527" frameX="-178" frameY="-96" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle 7" x="1965" y="4"  width="385" height="527" frameX="-177" frameY="-96" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Left 2" x="1181" y="2160"  width="385" height="527" frameX="-166" frameY="-92" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Left 3" x="1573" y="1618"  width="394" height="526" frameX="-175" frameY="-93" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle 16" x="1673" y="1076"  width="385" height="526" frameX="-172" frameY="-97" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle 8" x="1975" y="539"  width="385" height="526" frameX="-171" frameY="-97" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Right 1" x="2358" y="4"  width="385" height="526" frameX="-186" frameY="-119" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Right 2" x="1182" y="2695"  width="385" height="525" frameX="-182" frameY="-119" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Right 5" x="1574" y="2152"  width="385" height="524" frameX="-111" frameY="-126" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Left 1" x="1575" y="2684"  width="385" height="523" frameX="-167" frameY="-96" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Down 1" x="1967" y="2152"  width="383" height="515" frameX="-168" frameY="-95" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Down 2" x="1975" y="1610"  width="384" height="514" frameX="-168" frameY="-95" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Right 3" x="2358" y="1073"  width="385" height="512" frameX="-178" frameY="-133" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Down 3" x="2368" y="538"  width="384" height="509" frameX="-172" frameY="-100" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Right 4" x="2751" y="4"  width="383" height="507" frameX="-174" frameY="-144" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Down 4" x="1968" y="2675"  width="384" height="505" frameX="-193" frameY="-105" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle 9" x="789" y="1623"  width="384" height="529" frameX="-168" frameY="-94" frameWidth="720" frameHeight="720"/>
+</TextureAtlas>
